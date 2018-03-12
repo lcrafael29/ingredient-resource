@@ -1,0 +1,12 @@
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price, percentage_discount) VALUES ('Muzzarela Cheese', 'C', 500, 2.50, 20.00);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price, percentage_discount) VALUES ('Provolone Cheese', 'C', 500, 3.00, 20.00);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price, percentage_discount) VALUES ('Cheddar Cheese', 'C', 500, 3.50, 20.00);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Tomato Sauce', 'S', 500, 1.00);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Pepper Sauce', 'S', 500, 1.50);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Honey Sauce', 'S', 500, 2.00);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Tomato Vegetable', 'V', 500, 1.00);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Onion Vegetable', 'V', 500, 1.50);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Mushroom Vegetable', 'V', 500, 2.50);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Pepperoni Protein', 'P', 500, 4.50);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Chicken Protein', 'P', 500, 6.00);
+INSERT INTO igd_ingredient (description, type, portion_quantity, portion_price) VALUES ('Fish Protein', 'P', 500, 7.50);
